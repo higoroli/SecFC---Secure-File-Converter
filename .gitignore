@@ -1,0 +1,6 @@
+__pycache__/
+file tree.md
+dist/
+build/
+*.zip
+*.spec

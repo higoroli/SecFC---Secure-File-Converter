@@ -1,0 +1,22 @@
+# Interfaces Gráficas e Web
+customtkinter
+streamlit
+
+# Processamento de Dados e Planilhas
+pandas
+openpyxl
+xlsxwriter
+chardet
+
+# Processamento de PDF e Documentos de Texto
+PyMuPDF
+pdf2docx
+python-docx
+pypdf 
+ReportLab
+
+# Manipulação de Imagens
+Pillow
+
+# Integração Windows / Automação Office (Opcional no Linux/Mac)
+pywin32; sys_platform == 'win32'
